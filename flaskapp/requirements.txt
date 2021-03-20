@@ -9,7 +9,7 @@ gevent==1.4.0
 greenlet==0.4.15
 instagram-private-api==1.6.0.0
 itsdangerous==1.1.0
-Jinja2==2.10.1
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 mongoengine==0.18.2
 pymongo==3.8.0
